@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EBank</string>
+    <string name="welcome_to_e_bank">Welcome to E-Bank</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="account_details">Account Details</string>
+    <string name="account_balance">Account Balance</string>
+    <string name="logout">Logout</string>
+    <string name="deposit_10">Deposit $10</string>
+    <string name="withdraw_10">Withdraw $10</string>
+</resources>
